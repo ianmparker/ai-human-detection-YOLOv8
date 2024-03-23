@@ -10,7 +10,7 @@ The trained Model is then used to detetct and annotate humans in each frame alon
 
 I have attatched examples of the model at work below. 
 
-  - The first of which was from the 2024 NESBE Conference (unfortunatly, the video file was too big for GitHub)
+  - The first of which was from the 2024 NESBE Convention (unfortunatly, the video file was too big for GitHub)
   - The second uses footage from a busy Times Square in New York. 
 ---------------------------------------
 # Setup/Installation
@@ -33,7 +33,7 @@ You can also use your own video by changing the video path
 
 ![NSBE 2024 Conference](https://github.com/ianmparker/human-detection-YOLOv8/assets/18231849/d7b60537-fb55-4791-aa7a-88681d72ae98)
 
-2024 NSBE Conference 
+2024 NSBE Convention  
 
 ![Times Square Crowd](https://github.com/ianmparker/human-detection-YOLOv8/assets/18231849/371521fb-801f-4dad-a0e9-b6f20d220685)
 
