@@ -1,7 +1,7 @@
 # Ai-human-detection-YOLOv8
 Detecting Humans using a trained Yolov8 Model 
-
 My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
+
 ---------------------------------------
 
 
