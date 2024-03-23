@@ -9,7 +9,7 @@ This repository contains a YOLO model trained on a dataset of human images.
 
 The trained Model is then used to detetct and annotate humans in each frame along with the Model's confidence that each of those objects is a human. 
 
-Each human detected is then counted and the total is displayed the console.
+Each human detected is then counted and the total is displayed in the console.
 
 I have attatched examples of the model at work below. 
 
