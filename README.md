@@ -13,7 +13,7 @@ Each human detected is then counted and the total is displayed the console.
 
 I have attatched examples of the model at work below. 
 
-  - The first of which was from the 2024 NESBE Convention (unfortunately the video was too big for github)
+  - The first of which was from the 2024 NESBE Convention (unfortunately, the video was too big for github)
   - The second uses footage from a busy Times Square in New York. 
 ---------------------------------------
 # Setup/Installation
