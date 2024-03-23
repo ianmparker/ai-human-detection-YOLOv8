@@ -32,7 +32,7 @@ frame_wid = 640
 frame_hyt = 480
 
 # Open the video file or camera stream
-cap = cv2.VideoCapture("Videos\FordBooth.mov")
+cap = cv2.VideoCapture("Videos\Times Square Crowd.mp4")
 
 # Start a loop that will run until the video ends or 'q' is pressed
 while True:
