@@ -6,11 +6,21 @@ My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
 # Overview
 
 This repository contains a YOLO model trained on a dataset of human images.
+The trained Model is then used to detetct and annotate humans in each frame along with the Model's confidence that each of those objects is a human. 
 
 I have attatched examples of the model at work below. 
 
-  - The first of which was from the 2024 NESBE Conference (file was too big to put in GitHub)
+  - The first of which was from the 2024 NESBE Conference (unfortunatly, the video file was too big for GitHub)
   - The second uses footage from a busy Times Square in New York. 
+---------------------------------------
+# Setup/Installation
+
+You may need to do some of the folowing in order to get this code to run, depending on how you currently have your enviorment set up. 
+
+  - Use a virtual enviorment
+  - Install python 3.7.0 or later
+  - Install PyTorch 1.7 or later
+  - Install Darknet/ultralytics
 
 
 ---------------------------------------
