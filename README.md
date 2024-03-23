@@ -4,7 +4,7 @@ Detecting Humans using a trained Yolov8 Model
 
 
 ---------------------------------------
-#Screenshots
+# Screenshots
 
 ![NSBE 2024 Conference](https://github.com/ianmparker/human-detection-YOLOv8/assets/18231849/d7b60537-fb55-4791-aa7a-88681d72ae98)
 
@@ -15,7 +15,7 @@ Detecting Humans using a trained Yolov8 Model
 Times Square Crowd
 
 ------------------------------------
-#References: 
+# References: 
 
   - Koby_n_Code Computer Vision Tutorial : https://www.youtube.com/watch?v=hg4oVgNq7Do
   - Official Yolo Github: https://github.com/ultralytics/ultralytics
