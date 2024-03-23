@@ -22,6 +22,11 @@ You may need to do some of the folowing in order to get this code to run, depend
   - Install PyTorch 1.7 or later
   - Install Darknet/ultralytics
 
+You can also use your own video by changing the video path
+
+![human detection video import](https://github.com/ianmparker/human-detection-YOLOv8/assets/18231849/9cc7769a-75c5-4bdc-92f0-6361963098a4)
+
+
 
 ---------------------------------------
 # Screenshots
