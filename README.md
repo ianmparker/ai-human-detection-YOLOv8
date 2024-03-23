@@ -23,7 +23,7 @@ You may need to do some of the folowing in order to get this code to run, depend
   - Use a virtual enviorment
   - Install python 3.7.0 or later
   - Install PyTorch 1.7 or later
-  - Install Darknet/ultralytics
+  - Install Darknet/ultralytics (which the requirements.txt will handle)
 
 You can also use your own video by changing the video path
 
