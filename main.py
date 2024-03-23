@@ -32,7 +32,7 @@ frame_wid = 640
 frame_hyt = 480
 
 # Open the video file or camera stream
-cap = cv2.VideoCapture("NSBE 2024 Conference.mov")
+cap = cv2.VideoCapture("Videos\FordBooth.mov")
 
 # Start a loop that will run until the video ends or 'q' is pressed
 while True:
@@ -49,9 +49,13 @@ while True:
 
     # Convert the tensor array of detection parameters to a numpy array
     DP = detect_params[0].numpy()
+    
+    # Initialize a counter for humans
+    human_count = 0
 
     # If any objects were detected in the frame
     if len(DP) != 0:
+
         # Loop over each detected object
         for i in range(len(detect_params[0])):
             # Get the bounding box, class ID, and confidence of the current object
@@ -60,6 +64,10 @@ while True:
             clsID = box.cls.numpy()[0]
             conf = box.conf.numpy()[0]
             bb = box.xyxy.numpy()[0]
+
+            # If the class ID corresponds to a human, increment the counter
+            if class_list[int(clsID)] == 'person':
+                human_count += 1
 
             # Draw a rectangle on the frame around the detected object
             cv2.rectangle(
@@ -81,7 +89,8 @@ while True:
                 (255, 255, 255),
                 2,
             )
-
+    # Print the number of humans detected in the frame
+    print("Number of humans detected: ", human_count)
     # Resize and display the frame with detected objects and annotations
     frame = cv2.resize(frame, (800, 600)) 
     cv2.imshow("ObjectDetection", frame)
