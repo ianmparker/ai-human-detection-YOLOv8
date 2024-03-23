@@ -1,4 +1,4 @@
-# Ai-human-detection-YOLOv8
+# ai-human-detection-YOLOv8
 
 My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
 
