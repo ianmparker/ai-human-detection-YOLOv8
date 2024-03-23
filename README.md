@@ -1,5 +1,7 @@
 # Ai-human-detection-YOLOv8
 Detecting Humans using a trained Yolov8 Model 
+
+My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
 ---------------------------------------
 
 
@@ -15,6 +17,7 @@ Detecting Humans using a trained Yolov8 Model
 Times Square Crowd
 
 ------------------------------------
+
 # References: 
 
   - Koby_n_Code Computer Vision Tutorial : https://www.youtube.com/watch?v=hg4oVgNq7Do
