@@ -1,9 +1,16 @@
 # Ai-human-detection-YOLOv8
-Detecting Humans using a trained Yolov8 Model 
 
 My LinkedIn : https://www.linkedin.com/in/ian-parker-596011142/
 
 ---------------------------------------
+# Overview
+
+This repository contains a YOLO model trained on a dataset of human images.
+
+I have attatched examples of the model at work below. 
+
+  - The first of which was from the 2024 NESBE Conference (file was too big to put in GitHub)
+  - The second uses footage from a busy Times Square in New York. 
 
 
 ---------------------------------------
