@@ -45,6 +45,7 @@ Times Square Crowd
 
 # References: 
 
+  - MIT OpenCourseWare - Lecture 13: Object Detection, Recognition and Pose Determination, PatQuick - https://www.youtube.com/watch?v=lVfm6C51t_Y&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&index=13
   - Koby_n_Code Computer Vision Tutorial : https://www.youtube.com/watch?v=hg4oVgNq7Do
   - Official Yolo Github: https://github.com/ultralytics/ultralytics
   - Oficcial Darknet YOLO Website : https://pjreddie.com/darknet/yolo/
